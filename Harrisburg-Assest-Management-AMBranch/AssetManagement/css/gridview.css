@@ -1,0 +1,14 @@
+﻿.gridStyle {
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+.gridHeader {
+    background-color: #F0F0EB;
+    font-family: Arial;
+    color: White;
+    border: 1px; /*none 1px transparent;*/
+    height: 25px;
+    text-align: center;
+    font-size: 16px;
+}

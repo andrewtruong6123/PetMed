@@ -1,0 +1,30 @@
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\Utilities\bin\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\Utilities\bin\Debug\Utilities.pdb
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\Utilities\obj\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\Utilities\bin\Debug\Utilities.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.pdb
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\Utilities\bin\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\Utilities\bin\Debug\Utilities.pdb
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Utilities\bin\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Utilities\bin\Debug\Utilities.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Utilities\obj\Debug\Utilities.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Utilities\bin\Debug\Utilities.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Utilities\bin\Debug\Utilities.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Utilities\obj\Debug\Utilities.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Utilities\obj\Debug\Utilities.pdb

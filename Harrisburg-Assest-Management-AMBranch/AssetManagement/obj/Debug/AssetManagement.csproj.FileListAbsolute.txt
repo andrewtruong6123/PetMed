@@ -1,0 +1,298 @@
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\AssetManagement.dll.config
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\AssetManagement.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\AssetManagement.pdb
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\csc.exe
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\csc.exe.config
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\csc.rsp
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\csi.exe
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\csi.exe.config
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\csi.rsp
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.AppContext.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Console.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\vbc.exe
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\vbc.exe.config
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\vbc.rsp
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\Utilities.pdb
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\obj\Debug\AssetManagement.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\obj\Debug\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\obj\Debug\AssetManagement.csproj.CopyComplete
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\andym\OneDrive\Desktop\Capstone\Client Project Bootstrap start\AssetManagement\AssetManagement\obj\Debug\AssetManagement.pdb
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.dll.config
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.pdb
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.exe
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.exe.config
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.rsp
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.exe
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.exe.config
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.rsp
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Console.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.exe
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.exe.config
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.rsp
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\Utilities.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\Utilities.pdb
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csprojAssemblyReference.cache
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csproj.CopyComplete
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\Fahd\Desktop\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.pdb
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.dll.config
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.pdb
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.exe
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.exe.config
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.rsp
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.exe
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.exe.config
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.rsp
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.AppContext.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Console.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.exe
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.exe.config
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.rsp
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\Utilities.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\Utilities.pdb
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csproj.CopyComplete
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\andym\OneDrive\Documents\GitHub\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.dll.config
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\AssetManagement.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.exe
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.exe.config
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csc.rsp
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.exe
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.exe.config
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\csi.rsp
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.AppContext.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Console.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.exe
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.exe.config
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\vbc.rsp
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Functions.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Functions.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Utilities.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.csproj.CopyComplete
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\obj\Debug\AssetManagement.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Newtonsoft.Json.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\AssetManagement\bin\Newtonsoft.Json.xml
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\AssetManagement.dll.config
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\AssetManagement.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\AssetManagement.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\csc.exe
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\csc.exe.config
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\csc.rsp
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\csi.exe
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\csi.exe.config
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\csi.rsp
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.AppContext.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Console.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\vbc.exe
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\vbc.exe.config
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\vbc.rsp
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Functions.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Newtonsoft.Json.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Utilities.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Functions.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Utilities.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Newtonsoft.Json.xml
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\obj\Debug\AssetManagement.csprojAssemblyReference.cache
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\obj\Debug\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\obj\Debug\AssetManagement.csproj.CopyComplete
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\AssetManagement\obj\Debug\AssetManagement.pdb

@@ -1,0 +1,18 @@
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\bin\Debug\Functions.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\bin\Debug\Functions.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\bin\Debug\Utilities.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\bin\Debug\Utilities.pdb
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\obj\Debug\Functions.csproj.CopyComplete
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\obj\Debug\Functions.dll
+C:\Users\andym\OneDrive\Desktop\School\Capstone 2\client copy project file\Harrisburg-Assest-Management\Functions\obj\Debug\Functions.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\bin\Debug\Functions.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\bin\Debug\Functions.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\bin\Debug\Utilities.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\bin\Debug\Utilities.pdb
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\obj\Debug\Functions.csproj.CopyComplete
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\obj\Debug\Functions.dll
+C:\Users\APC\Downloads\Harrisburg-Assest-Management-AMBranch\Functions\obj\Debug\Functions.pdb
